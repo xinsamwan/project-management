@@ -1,5 +1,3 @@
-# project-management
-
 # New Request Checklist
 1. People present:
    1. QA
