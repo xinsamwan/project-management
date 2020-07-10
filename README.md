@@ -16,5 +16,6 @@
       1. How the data should flow from UI to database?
       1. What's the data type if there is any new columns?
 1. User Acceptance
+   1. What are the user cases? demo use cases
    1. Who are the target users?
    1. Who can verify the changes in dev/production?
